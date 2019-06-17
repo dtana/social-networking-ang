@@ -1,4 +1,18 @@
-# FrontTest
+# Social Networking App
+## Social Engineering - Suggested Friends
+
+This is the Social Networking App that shows in principal how the Social Networks provide theri Suggested Friends options.
+
+![social-networking-app-thumb](https://user-images.githubusercontent.com/31347233/59567154-1f71de00-906a-11e9-839a-7094eb2cd24e.jpg)
+
+## Project Objectives
+
+The goal of the app is to create a method to examine a Social Network with the provided dataset, ie. mockup database, which represents a group of people and their relations.
+
+Each person listed has one or more connections to the group. The app should provide functionality to choose a person from the database and display the following information about this person:
+ 	• Direct friends: those people who are directly connected to the chosen user
+	• Friends of friends: those who are one step away from the chosen user but not directly connected to the chosen user
+	• Suggested friends: people in the group who know 2 or more direct friends of the chosen user but are not directly connected to the chosen user
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
