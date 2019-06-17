@@ -21,9 +21,13 @@
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
     "@ng-bootstrap/ng-bootstrap": "^4.1.2",
+    "adm-zip": "^0.4.13",
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
+    "fstream": "^1.0.12",
     "rxjs": "6.0.0",
+    "tar": "^4.4.10",
+    "ws": "^7.0.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
